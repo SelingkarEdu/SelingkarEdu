@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @SelingkarEdu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Selamat Datang di GitHub Selingkar
 
-<!---
-SelingkarEdu/SelingkarEdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Logo](https://github.com/username/repo/blob/master/logo.png)
+
+## Selingkar Literasi Sayang Keluarga
+
+Selingkar Literasi Sayang Keluarga atau Selingkar adalah penyediamateri pembelajaran berbasis story telling dengan pendekatan bahasa. Dengan pendekatan tersebut, kami menghadirkan konteks yang melatari setiap bidangilmu yang dipelajari, mulai dari matematika, sains, budaya, sejarah, dan teknologi.
+
